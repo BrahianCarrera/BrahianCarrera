@@ -11,7 +11,7 @@
 - ✍️ Doing a degree in Computer Science At University of Antioquia
 - 😄 Love doing graphic desing and frontend
 - 🌎 Medellín, Colombia
-https://img.shields.io/badge/Python-23C9FF #3776AB
+
 
 <!---
 BrahianCarrera/BrahianCarrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
