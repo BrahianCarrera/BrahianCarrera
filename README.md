@@ -7,9 +7,9 @@
 
 ## About Me
  
-- 🌱 I’m currently learning Next js 
+- 🌱 I’m currently Android Studio and Kotlin 
 - ✍️ Doing a degree in Computer Science At University of Antioquia
-- 😄 Love doing graphic desing and frontend
+- 😄 Love doing graphic desing, frontend and ricing my arch linux
 - 🌎 Medellín, Colombia
 
 
